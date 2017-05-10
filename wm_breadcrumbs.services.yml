@@ -1,0 +1,5 @@
+services:
+  wm_breadcrumbs.articles.breadcrumbs:
+    class: Drupal\wm_breadcrumbs\Breadcrumb\ArticlesBreadcrumbBuilder
+    tags:
+      - { name: breadcrumb_builder, priority: 1 }

@@ -1,0 +1,6 @@
+name: wm_breadcrumbs
+description: 'Custom breadcrumbs for wm theme'
+type: module
+core: 8.x
+version: 1.x
+package: Custom
